@@ -67,7 +67,7 @@ def percentage(word,text): # 计算词word在文本中出现的频率
 ```py
 fdist1.plot(50, cumulative=True) # 50个常用词的累计频率图
 ```
-![在这里插入图片描述](1.1.png)
+![在这里插入图片描述](./picture/1.1.png)
 
 ```py
 fdist1.hapaxes() # 返回词频为1的词
