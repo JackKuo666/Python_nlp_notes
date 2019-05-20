@@ -12,5 +12,8 @@
 # 【Python自然语言处理】读书笔记：第三章：处理原始文本
 [【Python自然语言处理】读书笔记：第三章：处理原始文本](https://github.com/JackKuo666/Python_nlp_notes/blob/master/%E3%80%90Python%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E3%80%91%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%EF%BC%9A%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9A%E5%A4%84%E7%90%86%E5%8E%9F%E5%A7%8B%E6%96%87%E6%9C%AC.ipynb)
 
-#【Python自然语言处理】读书笔记：第四章：编写结构化程序
+# 【Python自然语言处理】读书笔记：第四章：编写结构化程序
 [【Python自然语言处理】读书笔记：第四章：编写结构化程序](https://github.com/JackKuo666/Python_nlp_notes/blob/master/%E3%80%90Python%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E3%80%91%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%EF%BC%9A%E7%AC%AC%E5%9B%9B%E7%AB%A0%EF%BC%9A%E7%BC%96%E5%86%99%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F.ipynb)
+
+# 【Python自然语言处理】读书笔记：第五章：分类和标注词汇
+[【Python自然语言处理】读书笔记：第五章：分类和标注词汇](https://github.com/JackKuo666/Python_nlp_notes/blob/master/%E3%80%90Python%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E3%80%91%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%EF%BC%9A%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%9A%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E6%B3%A8%E8%AF%8D%E6%B1%87.ipynb)
