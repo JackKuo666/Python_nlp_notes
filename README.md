@@ -23,3 +23,11 @@
 
 # 【Python自然语言处理】读书笔记：第七章：从文本提取信息
 [【Python自然语言处理】读书笔记：第七章：从文本提取信息](https://github.com/JackKuo666/Python_nlp_notes/blob/master/%E3%80%90Python%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E3%80%91%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%EF%BC%9A%E7%AC%AC%E4%B8%83%E7%AB%A0%EF%BC%9A%E4%BB%8E%E6%96%87%E6%9C%AC%E6%8F%90%E5%8F%96%E4%BF%A1%E6%81%AF.ipynb)
+
+----------------------------------未完待续------------------------
+
+# 更多NLP知识请访问：
+
+我的主页：https://jackkuo666.github.io/
+
+我的博客：https://blog.csdn.net/weixin_37251044
